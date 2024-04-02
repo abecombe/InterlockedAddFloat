@@ -1,0 +1,1 @@
+﻿Example implementation of InterlockedAddFloat using ComputeShader in Unity with reference to [HLSL InterLockedAdd Float](https://zhuanlan.zhihu.com/p/376313103)
